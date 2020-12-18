@@ -1,6 +1,5 @@
 # Disclaimer  
-So, I started to work on this project when one of my friends (actually not that many friends) suggested me to get the python course certification that held by a website named FreeCodeCamp. Sorry for my bad english and this is his disclaimer which is good to copy-paste here :)
-"This problem is owned by FreeCodeCamp and the solution is made by me. Don't violating FreeCodeCamp terms by copy-paste my work. Do your best and feel free to see my solution as a quick REFERENCE after hurricane and storms devastated your brain then made your version by yourself. This is about the learning progress NOT an achievement matter."  
+So, I started to work on this problem when one of my friends (actually not that many friends) suggested me to get the python course certification that held by a website named FreeCodeCamp. This problem is made by FreeCodeCamp and the solution is made by me, thank to my friend for helping me out. If you curious about him, feel free to check his github at github.com/anyafachri. 
 
 
 ***End Disclaimer***  
